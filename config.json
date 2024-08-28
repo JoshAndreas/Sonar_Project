@@ -1,0 +1,113 @@
+{
+	"sonar_url": "http://10.182.240.47",
+	"sonar_project_keys_output": "sonar_project_keys.json",
+	"sonar_metrics_output": "output.json",
+	"team_mapping_config": "mapping.json",
+	"metrics_mapping_output": "metrics_mapping.json",
+	"report_file_name": "ADIRA_DCOE_sonar_report.xlsx",
+	"metrics_string": "ncloc,last_commit_date,reliability_rating,security_rating,sqale_rating,line_coverage,reliability_remediation_effort,alert_status,duplicated_lines_density",
+	"metrics": [
+		{
+			"key": "reliability_rating",
+			"display_name": "Reliability Rating",
+			"type": "RATING",
+			"description": [
+				"Reliability rating",
+				"A = 0 Bugs",
+				"B = at least 1 Minor Bug",
+				"C = at least 1 Major Bug",
+				"D = at least 1 Critical Bug",
+				"E = at least 1 Blocker Bug"
+			],
+			"domain": "Reliability",
+			"hidden": false,
+			"threshold": "A"
+		},
+		{
+			"key": "security_rating",
+			"display_name": "Security Rating",
+			"type": "RATING",
+			"description": [
+				"Security Rating",
+				"A = 0 Vulnerabilities",
+				"B = at least 1 Minor Vulnerability",
+				"C = at least 1 Major Vulnerability",
+				"D = at least 1 Critical Vulnerability",
+				"E = at least 1 Blocker Vulnerability"
+			],
+			"domain": "Security",
+			"hidden": false,
+			"threshold": "A"
+		},
+		{
+			"key": "sqale_rating",
+			"display_name": "Maintainability Rating",
+			"type": "RATING",
+			"description": [
+				"A-to-E rating based on the technical debt ratio",
+				"(Formerly the SQALE rating.)",
+				"The rating given to your project related to the value of your Technical debt ratio. The default Maintainability rating grid is:",
+				"A=0-0.05, B=0.06-0.1, C=0.11-0.20, D=0.21-0.5, E=0.51-1",
+				"The Maintainability rating scale can be alternately stated by saying that if the outstanding remediation cost is:",
+				"<=5% of the time that has already gone into the application, the rating is A",
+				"between 6 to 10% the rating is a B",
+				"between 11 to 20% the rating is a C",
+				"between 21 to 50% the rating is a D",
+				"anything over 50% is an E"
+			],
+			"domain": "Maintainability",
+			"hidden": false,
+			"threshold": "B"
+		},	
+		{
+			"key": "line_coverage",
+			"display_name": "Line Coverage (%)",
+			"type": "PERCENT",
+			"description": "Line coverage",
+			"domain": "Coverage",
+			"hidden": false,
+			"threshold": 0.25
+		},
+		{
+			"key": "alert_status",
+			"display_name": "Quality Gate Status",
+			"type": "LEVEL",
+			"description": "The project status with regard to its quality gate",
+			"domain": "Releasability",
+			"hidden": false
+		},
+		{
+			"key": "reliability_remediation_effort",
+			"display_name": "Reliability Remediation Effort (min)",
+			"type": "WORK_DURATION",
+			"description": "Reliability Remediation Effort",
+			"domain": "Reliability",
+			"hidden": false
+		},
+		{
+			"key": "last_commit_date",
+			"display_name": "Date of Last Commit (dd/mm/yyyy)",
+			"type": "MILLISEC",
+			"description": "Date of the most recent commit. Current implementation is based on commits touching lines of source code. It ignores other changes like file renaming or file deletion.",
+			"domain": "SCM",
+			"hidden": false
+		},
+		{
+			"key": "ncloc",
+			"display_name": "NC LOC (loc)",
+			"type": "INT",
+			"description": "Non-commenting lines of code",
+			"domain": "Size",
+			"hidden": false
+		},
+		{
+			"key": "duplicated_lines_density",
+			"display_name": "Duplicated Lines (%)",
+			"type": "PERCENTS",
+			"description": "Duplicate lines of code",
+			"domain": "Duplication",
+			"hidden": false,
+			"threshold": 0.30
+		}
+	]
+}

@@ -1,0 +1,11 @@
+[tool.ruff]
+line-length = 250
+indent-width = 2
+
+[format]
+quote-style = "double"
+
+select = [
+    "E",  # pycodestyle
+    "F",  # pyflakes
+]

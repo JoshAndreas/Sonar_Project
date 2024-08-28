@@ -1,0 +1,1018 @@
+[
+  {
+    "key": "dlb-integration-layer-unit-test:services/bureau-gateway-pefindo",
+    "name": "bureau-gateway-pefindo"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/cbs-gateway-tm",
+    "name": "cbs-gateway-tm"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/cde-gateway-fico",
+    "name": "cde-gateway-fico"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/ciam-gateway-forgerock",
+    "name": "ciam-gateway-forgerock"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/collateral-gateway-revamp",
+    "name": "collateral-gateway-revamp"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/customer-service",
+    "name": "customer-service"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/debtreporting-gateway-slik",
+    "name": "debtreporting-gateway-slik"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/disbursement-gateway-danamon",
+    "name": "disbursement-gateway-danamon"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/ekyc-gateway-privy",
+    "name": "ekyc-gateway-privy"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/email-gateway-sendgrid",
+    "name": "email-gateway-sendgrid"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/fiduciary-gateway-ecm",
+    "name": "fiduciary-gateway-ecm"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/gl-gateway-fast",
+    "name": "gl-gateway-fast"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/lending-service",
+    "name": "lending-service"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/limit-gateway-lme",
+    "name": "limit-gateway-lme"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/lms-gateway-aman",
+    "name": "lms-gateway-aman"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/namescreening-gateway-gbg",
+    "name": "namescreening-gateway-gbg"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/notification-service",
+    "name": "notification-service"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/product-service",
+    "name": "product-service"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/push-gateway-gcm",
+    "name": "push-gateway-gcm"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/repayment-gateway-doku",
+    "name": "repayment-gateway-doku"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/scheduler-service",
+    "name": "scheduler-service"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/sms-gateway-infobip",
+    "name": "sms-gateway-infobip"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/storage-gateway-gcp",
+    "name": "storage-gateway-gcp"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/storage-service",
+    "name": "storage-service"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/transaction-service",
+    "name": "transaction-service"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/liveness-gateway-verihubs",
+    "name": "liveness-gateway-verihubs"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/whitelist-it-gateway",
+    "name": "whitelist-it-gateway"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/insurance-gateway-ad1claim",
+    "name": "insurance-gateway-ad1claim"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test:services/collection-gateway-teller",
+    "name": "collection-gateway-teller"
+  },
+  {
+    "key": "dlb-integration-layer",
+    "name": "dlb-integration-layer"
+  },
+  {
+    "key": "dlb-portal",
+    "name": "dlb-portal"
+  },
+  {
+    "key": "dlb-integration-layer-unit-test",
+    "name": "dlb-integration-layer-unit-test"
+  },
+  {
+    "key": "idp-auth-service",
+    "name": "idp-auth-service"
+  },
+  {
+    "key": "idp-ocr-ex",
+    "name": "idp-ocr-ex"
+  },
+  {
+    "key": "idp-fe-webadmin",
+    "name": "idp-fe-webadmin"
+  },
+  {
+    "key": "adiraku-ms-product",
+    "name": "adiraku-ms-product"
+  },
+  {
+    "key": "acommerce-ms-acomm-be",
+    "name": "acommerce-ms-acomm-be"
+  },
+  {
+    "key": "acommerce-ms-adira-store-api-fe",
+    "name": "acommerce-ms-adira-store-api-fe"
+  },
+  {
+    "key": "daep-ms-auth",
+    "name": "daep-ms-auth"
+  },
+  {
+    "key": "daep-ms-order-service",
+    "name": "daep-ms-order-service"
+  },
+  {
+    "key": "daep-ms-partner-service",
+    "name": "daep-ms-partner-service"
+  },
+  {
+    "key": "acommerce-ms-adira-store-api-be",
+    "name": "acommerce-ms-adira-store-api-be"
+  },
+  {
+    "key": "daep-ms-audit-service",
+    "name": "daep-ms-audit-service"
+  },
+  {
+    "key": "adiraku-ms-marketing",
+    "name": "adiraku-ms-marketing"
+  },
+  {
+    "key": "daep-ms-voucher-service",
+    "name": "daep-ms-voucher-service"
+  },
+  {
+    "key": "adiraku-ms-dwallet",
+    "name": "adiraku-ms-dwallet"
+  },
+  {
+    "key": "adiraku-ms-kaspro",
+    "name": "adiraku-ms-kaspro"
+  },
+  {
+    "key": "adiraku-ms-admin-panel",
+    "name": "adiraku-ms-admin-panel"
+  },
+  {
+    "key": "adiraku-ms-fe-admin-panel",
+    "name": "adiraku-ms-fe-admin-panel"
+  },
+  {
+    "key": "adiraku-ms-payment",
+    "name": "adiraku-ms-payment"
+  },
+  {
+    "key": "acommerce-ms-bukalapak-be",
+    "name": "acommerce-ms-bukalapak-be"
+  },
+  {
+    "key": "adiraku-ms-support",
+    "name": "adiraku-ms-support"
+  },
+  {
+    "key": "adiraku-ms-activity",
+    "name": "adiraku-ms-activity"
+  },
+  {
+    "key": "adiraku-ms-loyalty",
+    "name": "adiraku-ms-loyalty"
+  },
+  {
+    "key": "adiraku-ms-authentication",
+    "name": "adiraku-ms-authentication"
+  },
+  {
+    "key": "adiraku-ms-batch",
+    "name": "adiraku-ms-batch"
+  },
+  {
+    "key": "adiraku-ms-gamification",
+    "name": "adiraku-ms-gamification"
+  },
+  {
+    "key": "adiraku-ms-iims-web",
+    "name": "adiraku-ms-iims-web"
+  },
+  {
+    "key": "adiraku-ms-insrnce",
+    "name": "adiraku-ms-insrnce"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-web-fastboot",
+    "name": "momobil-ms-mobil-web-fastboot"
+  },
+  {
+    "key": "adiraku-ms-notification",
+    "name": "adiraku-ms-notification"
+  },
+  {
+    "key": "adiraku-ms-ekyc",
+    "name": "adiraku-ms-ekyc"
+  },
+  {
+    "key": "adiraku-ms-order",
+    "name": "adiraku-ms-order"
+  },
+  {
+    "key": "adiraku-ms-payment-gateway",
+    "name": "adiraku-ms-payment-gateway"
+  },
+  {
+    "key": "adiraku-ms-sms",
+    "name": "adiraku-ms-sms"
+  },
+  {
+    "key": "adiraku-ms-wa",
+    "name": "adiraku-ms-wa"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-blog",
+    "name": "momobil-ms-mobil-blog"
+  },
+  {
+    "key": "daep-ebs-cms",
+    "name": "daep-ebs-cms"
+  },
+  {
+    "key": "adiraku-ms-ekyc-new",
+    "name": "adiraku-ms-ekyc-new"
+  },
+  {
+    "key": "dicicilaja-mssimulation",
+    "name": "dicicilaja-mssimulation"
+  },
+  {
+    "key": "dicicilaja-ms-upload",
+    "name": "dicicilaja-ms-upload"
+  },
+  {
+    "key": "adiraku-ms-account",
+    "name": "adiraku-ms-account"
+  },
+  {
+    "key": "dicicilaja-ms-uplodrpt-java",
+    "name": "dicicilaja-ms-uplodrpt-java"
+  },
+  {
+    "key": "dicicilaja-ms-batch",
+    "name": "dicicilaja-ms-batch"
+  },
+  {
+    "key": "dicicilaja-bff-php",
+    "name": "dicicilaja-bff-php"
+  },
+  {
+    "key": "dicicilaja-bff-java",
+    "name": "dicicilaja-bff-java"
+  },
+  {
+    "key": "dicicilaja-intgrionsvc-java",
+    "name": "dicicilaja-intgrionsvc-java"
+  },
+  {
+    "key": "dicicilaja-publicweb",
+    "name": "dicicilaja-publicweb"
+  },
+  {
+    "key": "dicicilaja-msarea",
+    "name": "dicicilaja-msarea"
+  },
+  {
+    "key": "dicicilaja-ms-order",
+    "name": "dicicilaja-ms-order"
+  },
+  {
+    "key": "adiraku-android-apps",
+    "name": "adiraku-android-apps"
+  },
+  {
+    "key": "dicicilaja-msservice",
+    "name": "dicicilaja-msservice"
+  },
+  {
+    "key": "dicicilaja-mswebcntent",
+    "name": "dicicilaja-mswebcntent"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-api",
+    "name": "momobil-ms-mobil-api"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-auth",
+    "name": "momobil-ms-mobil-auth"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-common",
+    "name": "momobil-ms-mobil-common"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-community",
+    "name": "momobil-ms-mobil-community"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-cron",
+    "name": "momobil-ms-mobil-cron"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-graphql",
+    "name": "momobil-ms-mobil-graphql"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-kavadira",
+    "name": "momobil-ms-mobil-kavadira"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-moadmin-api",
+    "name": "momobil-ms-mobil-moadmin-api"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-microwave",
+    "name": "momobil-ms-mobil-microwave"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-order",
+    "name": "momobil-ms-mobil-order"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-moadminui",
+    "name": "momobil-ms-mobil-moadminui"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-notification",
+    "name": "momobil-ms-mobil-notification"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-activity",
+    "name": "momobil-ms-mobil-activity"
+  },
+  {
+    "key": "acommerce-ms-bukalapak-scheduler",
+    "name": "acommerce-ms-bukalapak-scheduler"
+  },
+  {
+    "key": "dicicilaja-ms-mpl-notification",
+    "name": "dicicilaja-ms-mpl-notification"
+  },
+  {
+    "key": "dicicilaja-msadmnpnl",
+    "name": "dicicilaja-msadmnpnl"
+  },
+  {
+    "key": "dicicilaja-mstransaction",
+    "name": "dicicilaja-mstransaction"
+  },
+  {
+    "key": "dicicilaja-msprofile",
+    "name": "dicicilaja-msprofile"
+  },
+  {
+    "key": "dicicilaja-msproduct",
+    "name": "dicicilaja-msproduct"
+  },
+  {
+    "key": "dicicilaja-scheduler-java",
+    "name": "dicicilaja-scheduler-java"
+  },
+  {
+    "key": "dicicilaja-msauth",
+    "name": "dicicilaja-msauth"
+  },
+  {
+    "key": "dicicilaja-msbrnchoff",
+    "name": "dicicilaja-msbrnchoff"
+  },
+  {
+    "key": "dicicilaja-msbusiness",
+    "name": "dicicilaja-msbusiness"
+  },
+  {
+    "key": "dicicilaja-mpl-admnpnl",
+    "name": "dicicilaja-mpl-admnpnl"
+  },
+  {
+    "key": "dicicilaja-android-apps",
+    "name": "dicicilaja-android-apps"
+  },
+  {
+    "key": "acommerce-ms-dashboard",
+    "name": "acommerce-ms-dashboard"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-activity-master",
+    "name": "momobil-ms-mobil-activity-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-api-master",
+    "name": "momobil-ms-mobil-api-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-auth-master",
+    "name": "momobil-ms-mobil-auth-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-common-master",
+    "name": "momobil-ms-mobil-common-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-blog-master",
+    "name": "momobil-ms-mobil-blog-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-cron-master",
+    "name": "momobil-ms-mobil-cron-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-kavadira-master",
+    "name": "momobil-ms-mobil-kavadira-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-graphql-master",
+    "name": "momobil-ms-mobil-graphql-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-microwave-master",
+    "name": "momobil-ms-mobil-microwave-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-moadmin-api-master",
+    "name": "momobil-ms-mobil-moadmin-api-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-moadminui-master",
+    "name": "momobil-ms-mobil-moadminui-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-notification-master",
+    "name": "momobil-ms-mobil-notification-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-order-master",
+    "name": "momobil-ms-mobil-order-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-static-master",
+    "name": "momobil-ms-mobil-static-master"
+  },
+  {
+    "key": "adiraku-ms-baas",
+    "name": "adiraku-ms-baas"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-web-fastboot-master",
+    "name": "momobil-ms-mobil-web-fastboot-master"
+  },
+  {
+    "key": "daep-ms-master-employee-service",
+    "name": "daep-ms-master-employee-service"
+  },
+  {
+    "key": "adiraku-ms-retry",
+    "name": "adiraku-ms-retry"
+  },
+  {
+    "key": "acommerce-ms-acomm-blibli",
+    "name": "acommerce-ms-acomm-blibli"
+  },
+  {
+    "key": "acommerce-ms-acomm-products-catalog",
+    "name": "acommerce-ms-acomm-products-catalog"
+  },
+  {
+    "key": "mpl-ms-car4cash-param",
+    "name": "mpl-ms-car4cash-param"
+  },
+  {
+    "key": "referral-scheduler-service",
+    "name": "referral-scheduler-service"
+  },
+  {
+    "key": "referral-notification-service",
+    "name": "referral-notification-service"
+  },
+  {
+    "key": "referral-core-library",
+    "name": "referral-core-library"
+  },
+  {
+    "key": "referral-code-library",
+    "name": "referral-code-library"
+  },
+  {
+    "key": "referral-application-service",
+    "name": "referral-application-service"
+  },
+  {
+    "key": "referral-referral-service",
+    "name": "referral-referral-service"
+  },
+  {
+    "key": "referral-audit-service",
+    "name": "referral-audit-service"
+  },
+  {
+    "key": "referral-authentication-library",
+    "name": "referral-authentication-library"
+  },
+  {
+    "key": "referral-product-service",
+    "name": "referral-product-service"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-partnership-fe",
+    "name": "momotor-ms-momotor-partnership-fe"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-blog",
+    "name": "momotor-ms-momotor-blog"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-websocket",
+    "name": "momobil-ms-mobil-websocket"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-web",
+    "name": "moservice-ms-moservice-web"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-web-fe",
+    "name": "momobil-ms-mobil-web-fe"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-order",
+    "name": "momotor-ms-momotor-order"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-superadmin-ember",
+    "name": "momotor-ms-momotor-superadmin-ember"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-superadmin-fastboot",
+    "name": "momotor-ms-momotor-superadmin-fastboot"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-wishlist-product",
+    "name": "momotor-ms-momotor-wishlist-product"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-widget",
+    "name": "momobil-ms-mobil-widget"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-catalog",
+    "name": "momotor-ms-momotor-catalog"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-api",
+    "name": "momotor-ms-momotor-api"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-auth",
+    "name": "momotor-ms-momotor-auth"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-moadmin-fe",
+    "name": "moservice-ms-moservice-moadmin-fe"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-payment-service",
+    "name": "moservice-ms-moservice-payment-service"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-content-service",
+    "name": "moservice-ms-moservice-mos-content-service"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-user-api",
+    "name": "moservice-ms-moservice-sp-user-api"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-mobil-api",
+    "name": "moservice-ms-moservice-sp-mobil-api"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-katalog-api",
+    "name": "moservice-ms-moservice-sp-katalog-api"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-content-api",
+    "name": "moservice-ms-moservice-sp-content-api"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-booking-api",
+    "name": "moservice-ms-moservice-sp-booking-api"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-booking-cron",
+    "name": "moservice-ms-moservice-sp-booking-cron"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-customer-email-reminder-cron",
+    "name": "moservice-ms-moservice-sp-customer-email-reminder-cron"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-bengkel-api",
+    "name": "moservice-ms-moservice-sp-bengkel-api"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-operator-web",
+    "name": "moservice-ms-moservice-operator-web"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-mobil-service",
+    "name": "moservice-ms-moservice-mos-mobil-service"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-booking-service",
+    "name": "moservice-ms-moservice-mos-booking-service"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-bengkel-service",
+    "name": "moservice-ms-moservice-mos-bengkel-service"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-auth-service",
+    "name": "moservice-ms-moservice-mos-auth-service"
+  },
+  {
+    "key": "id.co.adira:star-ms-customer-front",
+    "name": "star-ms-customer-front"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-user-service",
+    "name": "moservice-ms-moservice-mos-user-service"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-notification-service",
+    "name": "moservice-ms-moservice-mos-notification-service"
+  },
+  {
+    "key": "referral-dashboard",
+    "name": "referral-dashboard"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-report",
+    "name": "moservice-ms-moservice-report"
+  },
+  {
+    "key": "referral-discovery-service",
+    "name": "referral-discovery-service"
+  },
+  {
+    "key": "referral-identity-service",
+    "name": "referral-identity-service"
+  },
+  {
+    "key": "id.co.adira:moservice-bengkel-apps",
+    "name": "moservice-bengkel-apps"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-blog",
+    "name": "moservice-ms-moservice-blog"
+  },
+  {
+    "key": "referral-commission-service",
+    "name": "referral-commission-service"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-wishlist-product-master",
+    "name": "momotor-ms-momotor-wishlist-product-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-superadmin-ember-master",
+    "name": "momotor-ms-momotor-superadmin-ember-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-superadmin-fastboot-master",
+    "name": "momotor-ms-momotor-superadmin-fastboot-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-partnership-fe-master",
+    "name": "momotor-ms-momotor-partnership-fe-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-api-master",
+    "name": "momotor-ms-momotor-api-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-content-service-master",
+    "name": "moservice-ms-moservice-mos-content-service-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-web-nextjs-master",
+    "name": "momotor-ms-momotor-web-nextjs-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-blog-master",
+    "name": "momotor-ms-momotor-blog-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-mobil-service-master",
+    "name": "moservice-ms-moservice-mos-mobil-service-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-web-master",
+    "name": "moservice-ms-moservice-web-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-user-api-master",
+    "name": "moservice-ms-moservice-sp-user-api-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-mobil-api-master",
+    "name": "moservice-ms-moservice-sp-mobil-api-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-katalog-api-master",
+    "name": "moservice-ms-moservice-sp-katalog-api-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-customer-email-reminder-cron-master",
+    "name": "moservice-ms-moservice-sp-customer-email-reminder-cron-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-content-api-master",
+    "name": "moservice-ms-moservice-sp-content-api-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-booking-cron-master",
+    "name": "moservice-ms-moservice-sp-booking-cron-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-booking-api-master",
+    "name": "moservice-ms-moservice-sp-booking-api-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-sp-bengkel-api-master",
+    "name": "moservice-ms-moservice-sp-bengkel-api-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-report-master",
+    "name": "moservice-ms-moservice-report-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-payment-service-master",
+    "name": "moservice-ms-moservice-payment-service-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-operator-web-master",
+    "name": "moservice-ms-moservice-operator-web-master"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-mobil-web-fe-master",
+    "name": "momobil-ms-mobil-web-fe-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-moadmin-fe-master",
+    "name": "moservice-ms-moservice-moadmin-fe-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-blog-master",
+    "name": "moservice-ms-moservice-blog-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-auth-service-master",
+    "name": "moservice-ms-moservice-mos-auth-service-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-bengkel-service-master",
+    "name": "moservice-ms-moservice-mos-bengkel-service-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-booking-service-master",
+    "name": "moservice-ms-moservice-mos-booking-service-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-user-service-master",
+    "name": "moservice-ms-moservice-mos-user-service-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-notification-service-master",
+    "name": "moservice-ms-moservice-mos-notification-service-master"
+  },
+  {
+    "key": "id.co.adira:moservice-mos-bengkel-apps",
+    "name": "moservice-mos-bengkel-apps"
+  },
+  {
+    "key": "id.co.adira:star-ms-customer-front-master",
+    "name": "star-ms-customer-front-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-foundation-master",
+    "name": "star-ms-foundation-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-common-master",
+    "name": "star-ms-common-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-adiraku-api",
+    "name": "momotor-ms-momotor-adiraku-api"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-moadmin",
+    "name": "moservice-ms-moservice-mos-moadmin"
+  },
+  {
+    "key": "id.co.adira:star-ms-common",
+    "name": "star-ms-common"
+  },
+  {
+    "key": "mpl-ms-car4cash-web",
+    "name": "mpl-ms-car4cash-web"
+  },
+  {
+    "key": "id.co.adira:star-ms-customer-front-v2",
+    "name": "star-ms-customer-front-v2"
+  },
+  {
+    "key": "id.co.adira:moservice-bengkel-apps-master",
+    "name": "moservice-bengkel-apps-master"
+  },
+  {
+    "key": "mpl-ms-car4cash-api",
+    "name": "mpl-ms-car4cash-api"
+  },
+  {
+    "key": "mpl-ms-car4cash-backoffice",
+    "name": "mpl-ms-car4cash-backoffice"
+  },
+  {
+    "key": "id.co.adira:star-ms-customer-front-uat",
+    "name": "star-ms-customer-front-uat"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-moadmin-service-master",
+    "name": "moservice-ms-moservice-mos-moadmin-service-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-superadmin-master",
+    "name": "momotor-ms-momotor-superadmin-master"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-api-superadmin",
+    "name": "momotor-ms-momotor-api-superadmin"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-web-superadmin",
+    "name": "momotor-ms-momotor-web-superadmin"
+  },
+  {
+    "key": "id.co.adira:momotor-ms-momotor-catalog-master",
+    "name": "momotor-ms-momotor-catalog-master"
+  },
+  {
+    "key": "id.co.adira:moservice-ms-moservice-mos-payment-service",
+    "name": "moservice-ms-moservice-mos-payment-service"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-momobil-partner",
+    "name": "momobil-ms-momobil-partner"
+  },
+  {
+    "key": "id.co.adira:momobil-ms-momobil-fe-nextjs",
+    "name": "momobil-ms-momobil-fe-nextjs"
+  },
+  {
+    "key": "moservice-android-apps",
+    "name": "moservice-android-apps"
+  },
+  {
+    "key": "id.co.adira:star-ms-loanproduct",
+    "name": "star-ms-loanproduct"
+  },
+  {
+    "key": "id.co.adira:star-ms-foundation",
+    "name": "star-ms-foundation-uat"
+  },
+  {
+    "key": "id.co.adira:star-ms-merchant",
+    "name": "star-ms-merchant"
+  },
+  {
+    "key": "id.co.adira:star-ms-idm-star",
+    "name": "star-ms-idm-star"
+  },
+  {
+    "key": "id.co.adira:star-ms-voucher",
+    "name": "star-ms-voucher"
+  },
+  {
+    "key": "id.co.adira:star-ms-rppd",
+    "name": "star-ms-rppd-uat"
+  },
+  {
+    "key": "id.co.adira:star-ms-portal-gateway",
+    "name": "star-ms-portal-gateway"
+  },
+  {
+    "key": "id.co.adira:star-ms-lending-front",
+    "name": "star-ms-lending-front"
+  },
+  {
+    "key": "id.co.adira:star-ms-transaction-front",
+    "name": "star-ms-transaction-front"
+  },
+  {
+    "key": "id.co.adira:star-ms-merchant-front",
+    "name": "star-ms-merchant-front"
+  },
+  {
+    "key": "id.co.adira:star-ms-transaction-front-master",
+    "name": "star-ms-transaction-front-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-rppd-master",
+    "name": "star-ms-rppd-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-portal-gateway-master",
+    "name": "star-ms-portal-gateway-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-merchant-front-master",
+    "name": "star-ms-merchant-front-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-idm-star-master",
+    "name": "star-ms-idm-star-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-lending-front-master",
+    "name": "star-ms-lending-front-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-merchant-master",
+    "name": "star-ms-merchant-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-loanproduct-master",
+    "name": "star-ms-loanproduct-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-registry-master",
+    "name": "star-ms-registry-master"
+  },
+  {
+    "key": "id.co.adira:star-ms-registry",
+    "name": "star-ms-registry"
+  },
+  {
+    "key": "id.co.adira:star-ms-transaction-front-v2",
+    "name": "star-ms-transaction-front-v2"
+  },
+  {
+    "key": "id.co.adira:star-ms-portal-gateway-v2",
+    "name": "star-ms-portal-gateway-v2"
+  },
+  {
+    "key": "id.co.adira:star-ms-lending-front-uat",
+    "name": "star-ms-lending-front-uat"
+  },
+  {
+    "key": "id.co.adira:star-ms-merchant-front-uat",
+    "name": "star-ms-merchant-front-uat"
+  },
+  {
+    "key": "id.co.adira:star-ms-transaction-front-v2-uat",
+    "name": "star-ms-transaction-front-v2-uat"
+  }
+]
